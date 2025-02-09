@@ -1,2 +1,2 @@
-# Lista-1
-Códigos da lista 1 de Expressões em C da disciplina de Laboratório de Programação
+# Listas de Exercício
+Códigos das listas de Laboratório de Programação, escritos na linguagem C. As questões estão separadas nas suas devidas pastas.
